@@ -8,12 +8,12 @@ namespace LAB_1
 {
     class Program
     {
-        class Meth_Inf
+        class MethInf
         {
             internal int overloads;
             internal int minarg;
             internal int maxarg;
-            internal Meth_Inf(int arg)
+            internal MethInf(int arg)
             {
                 overloads = 1;
                 minarg = arg;
@@ -244,12 +244,12 @@ e - Выход из программы");
         static void All_About_Methods(Type t)
         {
             MethodInfo[] methods = t.GetMethods();
-            SortedDictionary<string, Meth_Inf> s_dic = new SortedDictionary<string, Meth_Inf>();
+            SortedDictionary<string, MethInf> s_dic = new SortedDictionary<string, MethInf>();
             for (int i = 0; i < methods.Length; ++i)
             {
                 if (!(s_dic.ContainsKey(methods[i].Name)))
                 {
-                    s_dic.Add(methods[i].Name, new Meth_Inf(methods[i].GetParameters().Length));
+                    s_dic.Add(methods[i].Name, new MethInf(methods[i].GetParameters().Length));
                 }
                 else
                 {

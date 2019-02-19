@@ -1,0 +1,26 @@
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\ALEKRAV\Desktop\Новая папка\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csprojAssemblyReference.cache
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\nhor_nhor\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\ALEKRAV\Desktop\LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csprojAssemblyReference.cache
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\nhor_nhor\Desktop\Для репозитория\1_LAB_C_SHARP\LAB_1\obj\Debug\LAB_1.pdb
